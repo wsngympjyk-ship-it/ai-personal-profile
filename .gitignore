@@ -1,0 +1,14 @@
+# 系统与编辑器
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 本地私有笔记（不入库）
+private/
+*.local.md
+
+# 敏感信息，切勿提交
+.env
+*.key
+*.pem
+secrets/
